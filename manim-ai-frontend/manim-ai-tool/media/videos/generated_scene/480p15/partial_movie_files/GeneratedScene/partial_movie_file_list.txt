@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/1185818338_3392278305_223132457.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_3201849554_3686022736.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_584609028_1015587954.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_3201849554_2431486025.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_2280993875_3876590478.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_3201849554_2684300885.mp4'
+file 'file:/Users/vedantmehta/Github Projects/ai-animator-studio/manim-ai-tool/media/videos/generated_scene/480p15/partial_movie_files/GeneratedScene/624642324_2552225380_2903560852.mp4'
